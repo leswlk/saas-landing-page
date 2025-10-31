@@ -136,6 +136,7 @@ export const features = [
         "1TB additional storage",
         "Unlimited projects",
         "Analytics",
+        "Free basket of lemon pepper wings",
       ],
       icon: "/images/triangle.svg",
       logo: "/images/plan-2.png",
